@@ -1,0 +1,2 @@
+rootProject.name = "Test_MQTT_database"
+include ':app'
